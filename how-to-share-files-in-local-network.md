@@ -1,7 +1,7 @@
 ---
 title: How to share files in local network?
 domain: blog.macieksitkowski.com
-tags: networking
+tags: networking, 2Articles1Week
 ---
 
 ## Problem
