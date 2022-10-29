@@ -2,7 +2,6 @@
 title: How to share files in local network?
 domain: blog.macieksitkowski.com
 tags: networking
-ignorePost: true
 ---
 
 ## Problem
